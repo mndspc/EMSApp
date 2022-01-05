@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>EMSApp.ConnectModelDemo</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
@@ -44,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConnectModelDemo.cs" />
     <Compile Include="EmpProfileRepository.cs" />
     <Compile Include="IEmpProfileRepository.cs" />
     <Compile Include="Models\EmpProfile.cs" />

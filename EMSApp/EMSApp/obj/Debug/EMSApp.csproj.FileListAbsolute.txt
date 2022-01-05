@@ -1,0 +1,8 @@
+D:\Corporate\Nordic Academy\ADO.Net\EMSApp\EMSApp\EMSApp\bin\Debug\EMSApp.exe.config
+D:\Corporate\Nordic Academy\ADO.Net\EMSApp\EMSApp\EMSApp\bin\Debug\EMSApp.exe
+D:\Corporate\Nordic Academy\ADO.Net\EMSApp\EMSApp\EMSApp\bin\Debug\EMSApp.pdb
+D:\Corporate\Nordic Academy\ADO.Net\EMSApp\EMSApp\EMSApp\obj\Debug\EMSApp.csproj.AssemblyReference.cache
+D:\Corporate\Nordic Academy\ADO.Net\EMSApp\EMSApp\EMSApp\obj\Debug\EMSApp.csproj.SuggestedBindingRedirects.cache
+D:\Corporate\Nordic Academy\ADO.Net\EMSApp\EMSApp\EMSApp\obj\Debug\EMSApp.csproj.CoreCompileInputs.cache
+D:\Corporate\Nordic Academy\ADO.Net\EMSApp\EMSApp\EMSApp\obj\Debug\EMSApp.exe
+D:\Corporate\Nordic Academy\ADO.Net\EMSApp\EMSApp\EMSApp\obj\Debug\EMSApp.pdb
