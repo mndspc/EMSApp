@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<NordicEMS>
+  <EmpAll>
+    <EmpCode>100</EmpCode>
+    <EmpName>Scott123</EmpName>
+    <DateOfBirth>2000-01-05T00:00:00+05:30</DateOfBirth>
+    <Email>scott123@gmail.com</Email>
+    <DeptCode>100</DeptCode>
+  </EmpAll>
+  <EmpAll>
+    <EmpCode>101</EmpCode>
+    <EmpName>Tiger</EmpName>
+    <DateOfBirth>2000-03-04T00:00:00+05:30</DateOfBirth>
+    <Email>tiger@gmail.com</Email>
+    <DeptCode>101</DeptCode>
+  </EmpAll>
+  <EmpAll>
+    <EmpCode>102</EmpCode>
+    <EmpName>Smith</EmpName>
+    <DateOfBirth>1990-03-04T00:00:00+05:30</DateOfBirth>
+    <Email>smith@gmail.com</Email>
+    <DeptCode>100</DeptCode>
+  </EmpAll>
+  <EmpAll>
+    <EmpCode>103</EmpCode>
+    <EmpName>Adam</EmpName>
+    <DateOfBirth>2020-01-05T00:00:00+05:30</DateOfBirth>
+    <Email>adam@gmail.com</Email>
+    <DeptCode>100</DeptCode>
+  </EmpAll>
+  <EmpAll>
+    <EmpCode>104</EmpCode>
+    <EmpName>Mary</EmpName>
+    <DateOfBirth>2020-05-05T00:00:00+05:30</DateOfBirth>
+    <Email>,mary@gmail.com</Email>
+    <DeptCode>101</DeptCode>
+  </EmpAll>
+</NordicEMS>

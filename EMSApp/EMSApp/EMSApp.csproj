@@ -48,11 +48,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConnectModelDemo.cs" />
+    <Compile Include="DisconnectedModelDemo.cs" />
     <Compile Include="EmpProfileRepository.cs" />
+    <Compile Include="EmpProfileRepository1.cs" />
     <Compile Include="IEmpProfileRepository.cs" />
+    <Compile Include="IUserInfoRepository.cs" />
     <Compile Include="Models\EmpProfile.cs" />
+    <Compile Include="Models\UserInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserInfoRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
